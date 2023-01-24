@@ -1,0 +1,3 @@
+ml /c /coff 7-19-IP-04-Pashchenko.asm
+ml /c /coff 7-19-IP-04-Pashchenko-2.asm
+link /SUBSYSTEM:WINDOWS 7-19-IP-04-Pashchenko.obj 7-19-IP-04-Pashchenko-2.obj
